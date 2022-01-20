@@ -36,7 +36,7 @@ foreach ($results as $result) {
     echo "{$result[0]} -> {$result[1]}\n";
 }
 
-$time_build = round($time_build, 4);
-$time_match = round($time_match, 4);
+$time_build = round($time_build, 5);
+$time_match = round($time_match, 5);
 echo "\ntime: build = {$time_build}s, execute = {$time_match}s\n";
 

@@ -48,7 +48,7 @@ func main() {
 		fmt.Printf("%d %s\n", t.Pos(), string(t.MatchString()))
 	}
 
-	fmt.Printf("\ntime: build = %v, execute = %v\n", timeBuildEnd.Sub(timeBuildStart), timeMatchEnd.Sub(timeMatchStart))
+	fmt.Printf("\ntime: build = %.5fs, execute = %.5fs\n", timeBuildEnd.Sub(timeBuildStart).Seconds(), timeMatchEnd.Sub(timeMatchStart).Seconds())
 }
 
 func readWords(filename string) ([]string, error) {
