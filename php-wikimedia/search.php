@@ -38,5 +38,5 @@ foreach ($results as $result) {
 
 $time_build = round($time_build, 4);
 $time_match = round($time_match, 4);
-echo "\ntime: build = {$time_build}ms, execute = {$time_match}ms\n";
+echo "\ntime: build = {$time_build}s, execute = {$time_match}s\n";
 
