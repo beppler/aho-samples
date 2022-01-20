@@ -1,0 +1,4 @@
+github.com/gansidui/ahocorasick v0.0.0-20210831105556-d71fed5e6378 h1:Q/pHj1qNErun8Fr7geACiBiZIWxYAXyGbdfJUSYnGKY=
+github.com/gansidui/ahocorasick v0.0.0-20210831105556-d71fed5e6378/go.mod h1:VsPSs0srnFp1ilo+P3P3CdKk2q7r2nBahYIbQr+ih7E=
+github.com/gansidui/ahocorasick v0.0.0-20220115224400-45c8304295ef h1:MK0qlBnxHWgy8LocGPQHO2vD72vizIJRXc/X5XWYfAY=
+github.com/gansidui/ahocorasick v0.0.0-20220115224400-45c8304295ef/go.mod h1:o4Ibd3nHyd9dcibHOgR7hmAOQqfsiSmNHWtoq4o6cvc=

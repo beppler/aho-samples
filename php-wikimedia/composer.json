@@ -1,0 +1,5 @@
+{
+    "require": {
+        "wikimedia/aho-corasick": "v1.0.1"
+    }
+}
