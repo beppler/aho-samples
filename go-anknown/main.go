@@ -27,7 +27,7 @@ func main() {
 
 	timeBuildEnd := time.Now()
 
-	message := []rune(strings.ToLower("The return to capital of this business cycle yields a lot of money related to bank loan swap with very basic risk on this base year."))
+	message := []rune(strings.ToLower("I aguaranteeee the return to capital of this business cycle yields a lot of money related to bank loan swap with very basic risk on this base year."))
 
 	timeMatchStart := time.Now()
 

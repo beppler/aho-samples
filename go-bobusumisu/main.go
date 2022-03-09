@@ -33,7 +33,7 @@ func main() {
 	}
 	fmt.Printf("%d\n", buffer.Len())
 
-	message := strings.ToLower("The return to capital of this business cycle yields a lot of money related to bank loan swap with very basic risk on this base year.")
+	message := strings.ToLower("I aguaranteeee the return to capital of this business cycle yields a lot of money related to bank loan swap with very basic risk on this base year.")
 
 	timeMatchStart := time.Now()
 

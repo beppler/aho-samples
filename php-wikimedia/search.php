@@ -20,7 +20,7 @@ $time_build += microtime(true);
 
 $words_count = count($words);
 
-$message = "The return to capital of this business cycle yields a lot of money related to bank loan swap with very basic risk on this base year.";
+$message = "I aguaranteeee the return to capital of this business cycle yields a lot of money related to bank loan swap with very basic risk on this base year.";
 
 $time_match = -microtime(true);
 
